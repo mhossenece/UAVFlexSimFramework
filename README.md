@@ -2,6 +2,7 @@ We have developed a measurement-calibrated Matlab-based simulation framework des
 wireless networks with similar settings. 
 
 We implemented fixed and autonomous trajectory in two separate folder.
+
 **How to run the fixed trajectory**
 Go to the folder 'Fixed Trajectory'. Run the file "main_fixed_trajectory.m"
 
