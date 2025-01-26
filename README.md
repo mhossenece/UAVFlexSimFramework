@@ -10,5 +10,5 @@ Go to the folder 'Fixed Trajectory'. Run the file "main_fixed_trajectory.m"
 **How to run the fixed trajectory**
 
 Go to the folder 'Autonomous Trajectory'. Run the file "main_auto_traj.m"
-![Description](autonomous.fig)
+![Description](auto_traj.png)
 
