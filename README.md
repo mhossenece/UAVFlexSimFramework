@@ -26,3 +26,11 @@ In particular, we use the DT from the [NSF AERPAW platform](https://aerpaw.org/)
 2. Run the MATLAB script:  
    ```matlab
    main_auto_traj.m
+
+## Sample Visualizations  
+
+To compare the **fixed trajectory** and **autonomous trajectory**, see the sample outputs below:  
+
+| **Fixed Trajectory** | **Autonomous Trajectory** |
+|----------------------|--------------------------|
+| ![Fixed](figs/fixed_traj.PNG) | ![Autonomous](figs/auto_traj.PNG) |
