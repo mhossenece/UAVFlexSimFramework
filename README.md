@@ -17,3 +17,12 @@ In particular, we use the DT from the [NSF AERPAW platform](https://aerpaw.org/)
 2. Run the MATLAB script:  
    ```matlab
    main_fixed_trajectory.m
+
+---
+
+## How to Run the Autonomous Trajectory
+
+1. Navigate to the folder **`Autonomous Trajectory`**.  
+2. Run the MATLAB script:  
+   ```matlab
+   main_auto_traj.m
